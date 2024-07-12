@@ -26,4 +26,5 @@ Conducted an in-depth analysis of the dataset to extract meaningful insights tha
 - **Categories of Apps with No Reviews**
 - **Correlation Between Number of Reviews and Installs**
 - **Distribution of App Ratings**
+  
 The SQL queries and their results are documented in the SQL-Analysis and Insight on App Performance
